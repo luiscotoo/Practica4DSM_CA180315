@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221391594802",
+    "project_id": "loginfirebaseapp-32dfb",
+    "storage_bucket": "loginfirebaseapp-32dfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221391594802:android:8ece7c6fa334ca8dfd632b",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.ejerciciologinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221391594802-qfcq3dcusbd5gm28ihgjbunv1lkpn74g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8u3L_qwtNfvusM_VfD-1Jim226oTgFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221391594802-qfcq3dcusbd5gm28ihgjbunv1lkpn74g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
