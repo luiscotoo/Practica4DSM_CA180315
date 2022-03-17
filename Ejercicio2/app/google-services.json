@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48172982049",
+    "firebase_url": "https://fir-dbrealtime-3d8cb-default-rtdb.firebaseio.com",
+    "project_id": "fir-dbrealtime-3d8cb",
+    "storage_bucket": "fir-dbrealtime-3d8cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48172982049:android:7ab1ca70d7cb55008ee860",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.ejerciciortdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48172982049-k55nu8ucugq293bhgo3jjsgiuqrab02q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCciiYLI5nvjGeKAgi_q1T3lx9ldCiqOqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48172982049-k55nu8ucugq293bhgo3jjsgiuqrab02q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
