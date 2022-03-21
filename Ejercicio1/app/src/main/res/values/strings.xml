@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EjercicioLoginFirebase</string>
+    <string name="default_web_client_id2">221391594802-qfcq3dcusbd5gm28ihgjbunv1lkpn74g.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">392012515619374</string>
+    <string name="fb_login_protocol_scheme">fb392012515619374</string>
+    <string name="facebook_client_token">202a3b1a4ca68da101f011394dca2503</string>
 </resources>
