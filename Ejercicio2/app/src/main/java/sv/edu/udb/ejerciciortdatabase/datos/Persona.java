@@ -1,5 +1,5 @@
 package sv.edu.udb.ejerciciortdatabase.datos;
-//Fecha de nacimiento, genero, peso y altura
+//Fecha de nacimiento, genero, peso y altura.
 
 public class Persona {
     private String dui;

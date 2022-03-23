@@ -124,7 +124,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
     }
-
+    //Facebook
     private void handleFacebookAccessToken(AccessToken token) {
         Log.d(TAG, "handleFacebookAccessToken:" + token);
 
